@@ -1,0 +1,61 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "testName" 3 times.(¿«ì¯8¿„é¢1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÏŠÓıÿÿÿÿ8¿„é¢1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú×«®ÿÿÿÿÿ8À„é¢1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿«ì¯8À„é¢1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÎäÍûÿÿÿÿ8À„é¢1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ª›±úÿÿÿÿ8À„é¢1
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óŒ8À„é¢1
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Š“í8À„é¢1
+l	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á³¿`8À„é¢1
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ÿã¡8À„é¢1
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦”Ô…üÿÿÿÿ8À„é¢1
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºáÚ¤8À„é¢1
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó½›ùÿÿÿÿ8À„é¢1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö’ìÌûÿÿÿÿ8À„é¢1
+^
+java:S1854("<Remove this useless assignment to local variable "TC2Data3".(ó½›ùÿÿÿÿ8É„é¢1
+Y
+java:S1854'"<Remove this useless assignment to local variable "TC2Data2".(ºáÚ¤8É„é¢1
+^
+java:S1854&"<Remove this useless assignment to local variable "TC2Data1".(¦”Ô…üÿÿÿÿ8É„é¢1
+Y
+java:S1854$"<Remove this useless assignment to local variable "TC1Data3".(§Ÿã¡8É„é¢1
+X
+java:S1854#"<Remove this useless assignment to local variable "TC1Data2".(Á³¿`8É„é¢1
+Y
+java:S1854""<Remove this useless assignment to local variable "TC1Data1".(‘Š“í8É„é¢1
+]
+java:S1854";Remove this useless assignment to local variable "TC2Name".(ÛÎäÍûÿÿÿÿ8É„é¢1
+X
+java:S1854";Remove this useless assignment to local variable "TC1Name".(¿«ì¯8É„é¢1
+W
+java:S18544":Remove this useless assignment to local variable "tcName".(–ïÚ8É„é¢1
+Œ
+java:S1130"oRemove the declaration of thrown exception 'org.json.JSONException', as it cannot be thrown from method's body.(ã¬Ù¢8É„é¢1
+]	java:S125"<This block of commented-out lines of code should be removed.(¹¡ÏÃüÿÿÿÿ8Ë„é¢1
+I
+java:S1481",Remove this unused "TC1Name" local variable.(¿«ì¯8Ë„é¢1
+N
+java:S1481",Remove this unused "TC2Name" local variable.(ÛÎäÍûÿÿÿÿ8Ë„é¢1
+J
+java:S1481""-Remove this unused "TC1Data1" local variable.(‘Š“í8Ë„é¢1
+I
+java:S1481#"-Remove this unused "TC1Data2" local variable.(Á³¿`8Ì„é¢1
+J
+java:S1481$"-Remove this unused "TC1Data3" local variable.(§Ÿã¡8Ì„é¢1
+O
+java:S1481&"-Remove this unused "TC2Data1" local variable.(¦”Ô…üÿÿÿÿ8Ì„é¢1
+J
+java:S1481'"-Remove this unused "TC2Data2" local variable.(ºáÚ¤8Ì„é¢1
+O
+java:S1481("-Remove this unused "TC2Data3" local variable.(ó½›ùÿÿÿÿ8Ì„é¢1
+]	java:S125*"<This block of commented-out lines of code should be removed.(¤šö½úÿÿÿÿ8Ì„é¢1
+H
+java:S14814"+Remove this unused "tcName" local variable.(–ïÚ8Í„é¢1
+]	java:S1256"<This block of commented-out lines of code should be removed.(èâÜµûÿÿÿÿ8Í„é¢1
+]	java:S1259"<This block of commented-out lines of code should be removed.(¸şÔ¹üÿÿÿÿ8²Ğò¢1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ÜÇåø8âñò¢1
+\
+java:S1128	":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Í„é¢1

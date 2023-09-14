@@ -1,0 +1,47 @@
+{
+  "testdata": [{
+    "testName": "LoginTest",
+    "data": [{
+      "runmode": "y",
+      "browser": "chrome",
+      "username": "abc@gmail1.com",
+      "password": "pass123"
+    },
+      {
+        "runmode": "n",
+        "browser": "mozilla",
+        "username": "abc1@gmail1.com",
+        "password": "pass1234"
+      },
+      {
+        "runmode": "n",
+        "browser": "safari",
+        "username": "abc2@gmail2.com",
+        "password": "pass12345"
+      }
+    ]
+  },
+    {
+      "testName": "PurchaseProductTest",
+      "data": [{
+        "runmode": "n",
+        "browser": "chrome",
+        "username": "abc@gmail1.com",
+        "password": "pass123"
+      },
+        {
+          "runmode": "y",
+          "browser": "mozilla",
+          "username": "abc1@gmail1.com",
+          "password": "pass1234"
+        },
+        {
+          "runmode": "y",
+          "browser": "safari",
+          "username": "abc2@gmail2.com",
+          "password": "pass12345"
+        }
+      ]
+    }
+  ]
+}
